@@ -1,0 +1,6 @@
+{
+  "name": "School Procurement Document Assistant",
+  "description": "ระบบฐานข้อมูลและเครื่องมือช่วยจัดทำเอกสารจัดซื้อจัดจ้าง โรงเรียนปายวิทยาคาร",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
